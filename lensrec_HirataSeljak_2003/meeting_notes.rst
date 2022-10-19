@@ -14,6 +14,7 @@
 -----------
 
 1. The lensing has the grad and the curl part. How does C_lAA looks like? WHy the curl part becomes more important as low noise?
+     * Red curve in the left plot of Figure 2 of https://arxiv.org/abs/1605.05662
 2. Try to get more intuitive idea why Eq2 from \phi_l.
 3. What is exactly get_response and get_N0s? What is the relation between these two?
 
