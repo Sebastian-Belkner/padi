@@ -1,0 +1,10 @@
+derive filter for QE
+redo variance expresion for (\hat{psi} - psi) ^2
+read the 123 paper from hu
+how does plancklens calculate N0?
+
+what the heck is response, in plancklens, get_response, planck 2015 paper, qe estimators in general
+
+there are 2 parameters, cls_weight and cls_len. 1. what do they do. 
+why abisheks filters are len dep, but lewis paper not. 
+is that because of Fig 8 of https://arxiv.org/pdf/1403.2386v2.pdf
